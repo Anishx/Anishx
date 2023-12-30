@@ -7,25 +7,27 @@
 </h1>
 
 <h5 align="left">
- <code><a href="https://linkedin.com/in/aneesh-krishna-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/anishx/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneesh-krishna-r" height="30" width="40" /></a></code>
- <code><a href="https://www.youtube.com/c/https://www.youtube.com/@go3t." target="blank"><img align="center" src="https://raw.githubusercontent.com/anishx/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@go3t." height="30" width="40" /></a></code>
- <code><a href="https://www.leetcode.com/https://leetcode.com/anishx" target="blank"><img align="center" src="https://raw.githubusercontent.com/anishx/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anishx" height="30" width="40" /></a></code>
+ <code><a href="https://linkedin.com/in/aneesh-krishna-r" target="blank"><img align="left" src="images/linkedinAnimated.gif" alt="aneesh-krishna-r" height="30" width="40" /></a></code>
+ <code><a href="https://www.youtube.com/c/https://www.youtube.com/@go3t." target="blank"><img align="left" src="images/youtubeAnim.gif" alt="https://www.youtube.com/@go3t." height="30" width="40" /></a></code>
+ <code><a href="https://www.leetcode.com/https://leetcode.com/anishx" target="blank"><img align="left" src="images/LeetCode_logo_black.png" alt="https://leetcode.com/anishx" height="30" width="40" /></a></code>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/P3w3.gif">
 </h5>
 <br>
 <p align="left">
 I'm a Senior SDE in Canada
   <br>
-  📚 A Full stack Dev in [about-canada]. I'm freeromaing through the universe after having discovered that i'm an elf and i have 1000 years to live. I also am a FSD for living. There's 2 ways to reach out to me. if you'd like to talk
+  📚 A Full stack Dev in [about-canada]. I'm freeromaing through the universe after having discovered that i'm an elf and i have 1000 years to live. I also am a FSD for living. There's 2 ways to reach out to me. if you'd like to talk: 
+  <a href="https://linkedin.com/aneesh-krishna-r" target="_blank" rel="noreferrer"> <img src="images/linkedinAnimated.gif" alt="spring" width="25" height="25"/> </a>
+  <a href="https://www.twitch.tv/neonrick7" target="_blank" rel="noreferrer"> <img src="images/youtubeAnim.gif" alt="spring" width="25" height="25"/> </a>
   <br>
-  📫 You'll find me here: <a href="mailto: aneeshkrish95@gmail.com">aneeshkrish95@gmail.com</a>
+  📫 How to reach me: <a href="mailto: aneeshkrish95@gmail.com">aneeshkrish95@gmail.com</a>
   <br>
 </p>
 
 <hr>
 <h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<p align="center"> 
+<p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
