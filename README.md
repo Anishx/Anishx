@@ -23,8 +23,9 @@
   <br>
 </p>
 
-<hr>
 <img align="right" alt="Coding" width="400" src="images/michael-scott.gif">
+
+<hr>
 <h2 align="left">🔥 Languages - Frameworks - Tools 🔥</h2>
 
 <br>
