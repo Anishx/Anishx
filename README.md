@@ -24,8 +24,8 @@
 </p>
 
 <hr>
-<h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <img align="right" alt="Coding" width="400" src="images/michael-scott.gif">
+<h2 align="left">🔥 Languages - Frameworks - Tools 🔥</h2>
 
 <br>
 <p align="left"> 
@@ -56,6 +56,8 @@
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
 </p>
 <hr>
+
+
 
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
