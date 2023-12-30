@@ -10,8 +10,8 @@
  <code><a href="https://linkedin.com/in/aneesh-krishna-r" target="blank"><img align="left" src="images/linkedinAnimated.gif" alt="aneesh-krishna-r" height="30" width="40" /></a></code>
  <code><a href="https://www.youtube.com/c/https://www.youtube.com/@go3t." target="blank"><img align="left" src="images/youtubeAnim.gif" alt="https://www.youtube.com/@go3t." height="30" width="40" /></a></code>
  <code><a href="https://www.leetcode.com/https://leetcode.com/anishx" target="blank"><img align="left" src="images/LeetCode_logo_black.png" alt="https://leetcode.com/anishx" height="30" width="40" /></a></code>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/P3w3.gif">
 </h5>
+
 <br>
 <p align="left">
 I'm a Senior SDE in Canada
@@ -26,6 +26,8 @@ I'm a Senior SDE in Canada
 
 <hr>
 <h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<img align="right" alt="Coding" width="400" src="images/michael-scott.gif">
+
 <br>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
