@@ -16,11 +16,9 @@
 <p align="left">
 I'm a Senior SDE in Canada
   <br>
-  📚 A Full stack Dev in [about-canada]. I'm freeromaing through the universe after having discovered that i'm an elf and i have 1000 years to live. I also am a FSD for living. There's 2 ways to reach out to me. if you'd like to talk: 
-  <a href="https://linkedin.com/aneesh-krishna-r" target="_blank" rel="noreferrer"> <img src="images/linkedinAnimated.gif" alt="spring" width="25" height="25"/> </a>
-  <a href="https://www.twitch.tv/neonrick7" target="_blank" rel="noreferrer"> <img src="images/youtubeAnim.gif" alt="spring" width="25" height="25"/> </a>
+  📚 A Full stack Dev in [about-canada]. I'm freeromaing through the universe after having discovered that i'm an elf and i have 1000 years to live. I also am a FSD for living. There's 2 ways to reach out to me. if you'd like to talk
   <br>
-  📫 How to reach me: <a href="mailto: aneeshkrish95@gmail.com">aneeshkrish95@gmail.com</a>
+  📫 You'll find me here: <a href="mailto: aneeshkrish95@gmail.com">aneeshkrish95@gmail.com</a>
   <br>
 </p>
 
