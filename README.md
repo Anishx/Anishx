@@ -2,31 +2,30 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anishx.anishx">
 
-<h1 align="center">
+<h1 align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Howdy!+Anish+here!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
-<h5 align="center">
- <code><a href="https://linkedin.com/in/aneesh-krishna-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneesh-krishna-r" height="30" width="40" /></a></code>
- <code><a href="https://www.youtube.com/c/https://www.youtube.com/@go3t." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@go3t." height="30" width="40" /></a></code>
- <code><a href="https://www.leetcode.com/https://leetcode.com/anishx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anishx" height="30" width="40" /></a></code>
+<h5 align="left">
+ <code><a href="https://linkedin.com/in/aneesh-krishna-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/anishx/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneesh-krishna-r" height="30" width="40" /></a></code>
+ <code><a href="https://www.youtube.com/c/https://www.youtube.com/@go3t." target="blank"><img align="center" src="https://raw.githubusercontent.com/anishx/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@go3t." height="30" width="40" /></a></code>
+ <code><a href="https://www.leetcode.com/https://leetcode.com/anishx" target="blank"><img align="center" src="https://raw.githubusercontent.com/anishx/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anishx" height="30" width="40" /></a></code>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/P3w3.gif">
-
 </h5>
 <br>
-<p align="center">
+<p align="left">
 I'm a Senior SDE in Canada
   <br>
   📚 A Full stack Dev in [about-canada]. I'm freeromaing through the universe after having discovered that i'm an elf and i have 1000 years to live. I also am a FSD for living. There's 2 ways to reach out to me. if you'd like to talk: 
-  <a href="https://linkedin.com/aneesh-krishna-r" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="spring" width="25" height="25"/> </a>
-  <a href="https://www.twitch.tv/neonrick7" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitch/twitch-tile.svg" alt="spring" width="25" height="25"/> </a>
+  <a href="https://linkedin.com/aneesh-krishna-r" target="_blank" rel="noreferrer"> <img src="images/linkedinAnimated.gif" alt="spring" width="25" height="25"/> </a>
+  <a href="https://www.twitch.tv/neonrick7" target="_blank" rel="noreferrer"> <img src="images/youtubeAnim.gif" alt="spring" width="25" height="25"/> </a>
   <br>
   📫 How to reach me: <a href="mailto: aneeshkrish95@gmail.com">aneeshkrish95@gmail.com</a>
   <br>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -57,10 +56,10 @@ I'm a Senior SDE in Canada
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
+<p align=left>
+  <div align=left>
     <a href="https://github.com/anishx/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=anishx&theme=react&border=61dafb&hide_border=true" alt="anishx" />
     </a>
@@ -69,9 +68,9 @@ I'm a Senior SDE in Canada
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
+  <div align=left>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
@@ -81,7 +80,7 @@ I'm a Senior SDE in Canada
 
 <hr>
 
-<h4 align="center">
+<h4 align="left">
   <a href="https://github.com/anishx?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
