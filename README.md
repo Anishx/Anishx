@@ -20,9 +20,8 @@
   <br>
   📫 How to reach me: <a href="mailto: aneeshkrish95@gmail.com">aneeshkrish95@gmail.com</a>
   <br>
+  <img align="right" alt="Coding" width="400" src="images/michael-scott.gif">
 </p>
-
-<img align="right" alt="Coding" width="400" src="images/michael-scott.gif">
 
 <hr>
 <h2 align="left">🔥 Languages - Frameworks - Tools 🔥</h2>
