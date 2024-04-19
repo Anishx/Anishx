@@ -53,14 +53,22 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <a href="https://github.com/anishx/github-readme-streak-stats" title="Go to Source">
-        <img align="center" width=47% src="https://streak-stats.demolab.com/?user=anishx&theme=react&border=61dafb&hide_border=true" alt="anishx" />
-      </a>
+        <a href="https://github.com/anishx">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+          </picture>
+        </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?username=anishx&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-      </a>
+        <a href="https://github.com/anishx">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik" />
+            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&theme=radical" alt="Streak Stats" />
+          </picture>
+        </a>
     </td>
   </tr>
 </table>
