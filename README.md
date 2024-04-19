@@ -13,10 +13,10 @@
 
 <p align="center">
   📚 A Full stack Dev. Passionate about what I do. There's 2 ways to reach out to me. 
-  <a href="https://linkedin.com/aneesh-krishna-r" target="_blank" rel="noreferrer"> <img src="images/linkedinAnimated.gif" alt="spring" width="25" height="25"/> </a>
-  <a href="https://www.twitch.tv/neonrick7" target="_blank" rel="noreferrer"> <img src="images/youtubeAnim.gif" alt="spring" width="25" height="25"/> </a>
+  <!-- <a href="https://linkedin.com/aneesh-krishna-r" target="_blank" rel="noreferrer"> <img src="images/linkedinAnimated.gif" alt="spring" width="25" height="25"/> </a>
+  <a href="https://www.twitch.tv/neonrick7" target="_blank" rel="noreferrer"> <img src="images/youtubeAnim.gif" alt="spring" width="25" height="25"/> </a> --> 
   <br>
-  📫 How to reach me: <a href="mailto: aneeshkrish95@gmail.com">aneeshkrish95@gmail.com</a>
+  📫<a href="mailto: aneeshkrish95@gmail.com">aneeshkrish95@gmail.com</a>
   <br>
 </p>
 
