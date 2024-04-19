@@ -11,7 +11,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Howdy!+Aneesh+here!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
-<br>
 <p align="center">
   📚 A Full stack Dev. Passionate about what I do. There's 2 ways to reach out to me. 
   <a href="https://linkedin.com/aneesh-krishna-r" target="_blank" rel="noreferrer"> <img src="images/linkedinAnimated.gif" alt="spring" width="25" height="25"/> </a>
