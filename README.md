@@ -11,7 +11,7 @@
 <!-- [![Twitch](https://img.shields.io/badge/Twitch-330F63?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/neonrick7) -->
 <!-- [![YouTube](https://img.shields.io/badge/Youtube-330F63?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@go3t.) -->
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anishx.anishx">
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anishx.anishx">-->
 
 
 <h1 align="left">
