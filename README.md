@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  📚 A Full stack Dev. Passionate about what I do. There's 2 ways to reach out to me. 
+  📚 A Full stack Dev. Passionate about what I do. Here's how you reach me. 
   <!-- <a href="https://linkedin.com/aneesh-krishna-r" target="_blank" rel="noreferrer"> <img src="images/linkedinAnimated.gif" alt="spring" width="25" height="25"/> </a>
   <a href="https://www.twitch.tv/neonrick7" target="_blank" rel="noreferrer"> <img src="images/youtubeAnim.gif" alt="spring" width="25" height="25"/> </a> --> 
   <br>
