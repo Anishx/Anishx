@@ -55,7 +55,7 @@
 </p>
 
 
-<h2 align="left">⚡ Stats ⚡</h2>
+<h2 align="left"> 📟 GitHub Stats</h2>
 
 <table width="100%">
   <tr>
