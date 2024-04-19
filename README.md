@@ -69,10 +69,9 @@
     </a>
   </div>
    --> 
-  <img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=anishx&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
- 
 </p>
 
+<img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=anishx&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
 <hr>
 
 <h4 align="left">
