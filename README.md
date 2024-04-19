@@ -71,12 +71,27 @@
    --> 
 </p>
 
-<img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=anishx&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
+<p align=center> 
+  <img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=anishx&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
+</p>
 <hr>
-
 <h4 align="left">
   <a href="https://github.com/anishx?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+<p align=center>
+<ul>
+  <li><a href="https://github.com/Anishx/Portfolio" title="Show Repositories">Portfolio</a></li>
+  <li><a href="https://github.com/Anishx/Portfolio/tree/main/Classification" title="Show Repositories">Machine Learning - Classification</a></li>
+  <li><a href="https://github.com/Anishx/Portfolio/tree/main/Regression" title="Show Repositories">Machine Learning - Regression</a></li>
+  <li><a href="https://github.com/Anishx/Portfolio/tree/main/Analysis-recommendations" title="Show Repositories">Statistical Analysis & recommendations</a></li>
+  <li><a href="https://github.com/Anishx/Portfolio/tree/main/NLP" title="Show Repositories">NLP</a></li>
+  <li><a href="https://github.com/Anishx/Spring-Boot-practice" title="Show Repositories">Spring Boot</a></li>
+  <li><a href="https://github.com/Anishx/Java-Practice-DS" title="Show Repositories">Java</a></li>
+  <li><a href="https://github.com/anishx?tab=repositories" title="Show Repositories">React</a></li>
+  <li><a href="https://github.com/Anishx/Portfolio/tree/main/Script" title="Show Repositories">Scripts</a></li>
+</ul>
+  
+</p>
 
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishx&show_icons=true&locale=en&layout=compact" alt="anishx" /></p> -->
