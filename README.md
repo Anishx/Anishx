@@ -1,4 +1,4 @@
-<img width=100% height=300 align="center" src="https://cdn.dribbble.com/users/1648363/screenshots/3525948/media/9567ff16ea9b4603f3a0c338ba47c024.gif">
+<img width=100% height=300 align="center" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/c2d64f4ceaf86da9becca355e41d219d-1696690622/luigi%20LOFI%20sample%20export%206%20alt/create-awesome-pixel-art-animations-and-illustrations.gif">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-krishna-r)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anishx)
