@@ -64,7 +64,7 @@
       <img align="center" height=230 width=390 src="https://streak-stats.demolab.com/?user=anishx&theme=react&border=61dafb&hide_border=true" alt="anishx" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" height=230 width=390 src="https://github-readme-stats.vercel.app/api?username=anishx&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" height=210 width=390 src="https://github-readme-stats.vercel.app/api?username=anishx&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
