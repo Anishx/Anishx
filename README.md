@@ -63,16 +63,15 @@
       <img height=300  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
-   --> 
+  <img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=anishx&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
+  -->
 </p>
 
 <p align=center> 
-  <img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=anishx&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
+  <h4 align="left">
+    <a href="https://github.com/anishx?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  </h4>
 </p>
-<hr>
-<h4 align="left">
-  <a href="https://github.com/anishx?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 <p align=center>
 <ul>
   <li><a href="https://github.com/Anishx/Portfolio" title="Show Repositories">Portfolio</a></li>
@@ -85,7 +84,6 @@
   <li><a href="https://github.com/anishx?tab=repositories" title="Show Repositories">React</a></li>
   <li><a href="https://github.com/Anishx/Portfolio/tree/main/Script" title="Show Repositories">Scripts</a></li>
 </ul>
-  
 </p>
 
 
