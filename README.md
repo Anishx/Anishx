@@ -1,4 +1,4 @@
-
+<img width=100% align="center" src="https://cdn.dribbble.com/users/1648363/screenshots/3525948/media/9567ff16ea9b4603f3a0c338ba47c024.gif">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-krishna-r)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anishx)
@@ -6,6 +6,7 @@
 <!-- [![YouTube](https://img.shields.io/badge/Youtube-330F63?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@go3t.) -->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anishx.anishx">
+
 
 <h1 align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Howdy!+Aneesh+here!+%F0%9F%91%8B" alt="Typing SVG" /></a>
