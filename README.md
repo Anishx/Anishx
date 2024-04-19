@@ -121,10 +121,6 @@
 </ul>
 </p>
 
-<h2>✍️ Random Dev Quote </h2>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <div align="center">
    <img height="20" src="https://visitcount.itsvg.in/api?id=ansihx&icon=0&color=0" alt=""/>
   <picture>
