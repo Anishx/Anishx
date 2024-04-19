@@ -2,12 +2,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-krishna-r)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anishx)
-[![Twitch](https://img.shields.io/badge/Twitch-330F63?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/neonrick7)
-[![YouTube](https://img.shields.io/badge/Youtube-330F63?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@go3t.)
+# [![Twitch](https://img.shields.io/badge/Twitch-330F63?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/neonrick7)
+# [![YouTube](https://img.shields.io/badge/Youtube-330F63?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@go3t.)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anishx.anishx">
 
-<h1 align="center">
+<h1 align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Howdy!+Anish+here!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
