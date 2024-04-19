@@ -121,7 +121,7 @@
 </ul>
 </p>
 
-### ✍️ Random Dev Quote
+<h2>✍️ Random Dev Quote </h2>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <div align="center">
