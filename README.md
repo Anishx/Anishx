@@ -7,7 +7,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-krishna-r)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anishx)
+[![GitHub](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anishx/Portfolio)
 <!-- [![Twitch](https://img.shields.io/badge/Twitch-330F63?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/neonrick7) -->
 <!-- [![YouTube](https://img.shields.io/badge/Youtube-330F63?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@go3t.) -->
 
